@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 4c72181bfef1e1c4b9a811dea3dda59b
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -7372752945235623747
+    second: ittirme mak kol|CircleAction.001
+  - first:
+      74: -2956147328545331603
+    second: ittirme mak kol|CylinderAction.002
+  - first:
+      74: 6300778875135241395
+    second: ittirme mak kol|ittirme mak Action
+  - first:
+      74: -3011711947930681503
+    second: ittirme mak kol|ittirme mak kolAction
+  - first:
+      74: -1467840464587628000
+    second: ittirme mak kol|ittirme mak kolAction.001
+  - first:
+      74: -5980811772755920047
+    second: ittirme mak |CircleAction.001
+  - first:
+      74: -7028965476818940694
+    second: ittirme mak |CylinderAction.002
+  - first:
+      74: 8124896718096766508
+    second: ittirme mak |ittirme mak Action
+  - first:
+      74: 5764491119529479083
+    second: ittirme mak |ittirme mak kolAction
+  - first:
+      74: 7003028336325424698
+    second: ittirme mak |ittirme mak kolAction.001
+  - first:
+      74: 4430741690744668994
+    second: ittirme mak zemin|CircleAction.001
+  - first:
+      74: -4554695531499109545
+    second: ittirme mak zemin|CylinderAction.002
+  - first:
+      74: 6309474713092273284
+    second: ittirme mak zemin|ittirme mak Action
+  - first:
+      74: -4144050549911230746
+    second: ittirme mak zemin|ittirme mak kolAction
+  - first:
+      74: 3314201633108148871
+    second: ittirme mak zemin|ittirme mak kolAction.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
